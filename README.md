@@ -3,7 +3,7 @@ redis-tools
 
 Redis toolset
 
-To compile, use commands:
+To download and compile, use commands:
 
 	git clone https://github.com/antirez/redis-tools.git redis-tools
 	cd redis-tools
