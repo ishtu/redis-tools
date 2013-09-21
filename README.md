@@ -1,8 +1,7 @@
 redis-tools
 ===========
 
-Redis toolset
-
+Redis toolset.
 To download and compile, use commands:
 
 	git clone https://github.com/antirez/redis-tools.git redis-tools
